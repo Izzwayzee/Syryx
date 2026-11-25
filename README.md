@@ -1,2 +1,2 @@
 # Syryx-
-PC hardware monitor &amp; SMART drive diagnostics.
+PC hardware monitor &amp; SMART drive diagnostics
